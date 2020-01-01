@@ -5,3 +5,4 @@ Vada pav
 rasamalai
 Bhel Puri
 Masala Puri
+Channa masala
